@@ -28,3 +28,9 @@ C:\Users\CarlosAugusto\Documents\Universidad\8vo Ciclo\Analisis de Sistemas 2\P3
 C:\Users\CarlosAugusto\Documents\Universidad\8vo Ciclo\Analisis de Sistemas 2\P3\Modulo_HRM-master\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
 C:\Users\CarlosAugusto\Documents\Universidad\8vo Ciclo\Analisis de Sistemas 2\P3\Modulo_HRM-master\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.dll
 C:\Users\CarlosAugusto\Documents\Universidad\8vo Ciclo\Analisis de Sistemas 2\P3\Modulo_HRM-master\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
+C:\Users\CarlosAugusto\PrototipoEF\ModuloHRM\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\CarlosAugusto\PrototipoEF\ModuloHRM\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\CarlosAugusto\PrototipoEF\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.csprojAssemblyReference.cache
+C:\Users\CarlosAugusto\PrototipoEF\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\CarlosAugusto\PrototipoEF\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\CarlosAugusto\PrototipoEF\ModuloHRM\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
